@@ -1,0 +1,18 @@
+# Large datasets (exceed GitHub 100MB file limit)
+*.csv
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
